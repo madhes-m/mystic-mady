@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mystic-mady
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently learning Programming 
-- 😄 Pronouns: Mr
 
 <!---
 mystic-mady/mystic-mady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
